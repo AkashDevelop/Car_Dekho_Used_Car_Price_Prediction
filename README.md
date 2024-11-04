@@ -1,10 +1,12 @@
 
-Car Dekho - Used Car Price Prediction 🚗💰
+# Car Dekho - Used Car Price Prediction 🚗💰
 
-Overview:
+# Overview:
+
 This project leverages machine learning to predict used car prices, enhancing customer experience and improving pricing accuracy. By utilizing historical car data, the model estimates car prices based on factors such as make, model, year, fuel type, and transmission. The final model is deployed through an interactive Streamlit application, allowing real-time price predictions.
 
-Project Features
+# Project Features
+
 Data Cleaning & Preprocessing: Organized and structured data from various cities with thorough data cleaning.
 
 Exploratory Data Analysis (EDA): In-depth analysis to identify patterns, relationships, and influential features.
@@ -14,7 +16,7 @@ Machine Learning Model Development: Trained and fine-tuned multiple models (Line
 Model Evaluation & Optimization: Evaluated with metrics like MAE, MSE, and R-squared, with hyperparameter tuning for optimal performance.
 Streamlit Deployment: User-friendly application where users input car details to get instant price predictions.
 
-Technology Stack
+# Technology Stack
 
 Languages & Libraries: Python, Pandas, Scikit-Learn, Streamlit
 
