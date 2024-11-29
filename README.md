@@ -2,13 +2,39 @@
 # 🚗 Car Price Prediction App
 
 ![Car Price Prediction](https://img.shields.io/badge/Car%20Price%20Prediction-App-brightgreen) 
-![Tools](https://img.shields.io/badge/Tools-MechineLearning,%20Python,%20Scikitlearn,%20Streamlit,%20Plotly,%20Joblib,%20Pandas-%23ff6347)
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-green?style=flat-square&logo=scikitlearn)
+![Streamlit](https://img.shields.io/badge/Streamlit-Deployment-orange?style=flat-square&logo=streamlit)
 
 Welcome to the **Car Price Prediction App**! This web application helps users predict the price of a used car based on its features. It uses machine learning to forecast the price and allows users to explore and filter cars interactively.
 
 ---
 
 ![Screenshot (58)](https://github.com/user-attachments/assets/08d4e4ab-567c-4b03-aa64-3871bcf3e2dd)
+
+## ✨ Project Highlights
+
+---
+
+**Feature**                     | **Details**
+------------------------------ | ------------------------------------------------------------------------
+**Data Cleaning & Preprocessing**| Organized and structured data from various cities with thorough data cleaning.
+**Exploratory Data Analysis**   | In-depth analysis to identify patterns, relationships, and influential features.
+**Machine Learning Models**     | Trained multiple regression models (Linear Regression, Decision Trees, Random Forest, etc.) to predict prices.
+**Model Evaluation**            | Used metrics like MAE, MSE, and R-squared, with hyperparameter tuning for optimal performance.
+**Streamlit Deployment**       | Developed an interactive application for real-time car price predictions.
+
+---
+
+## 🔧 Tools and Technologies
+
+- ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python)
+- ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?style=flat-square&logo=pandas)
+- ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-green?style=flat-square&logo=scikitlearn)
+- ![Streamlit](https://img.shields.io/badge/Streamlit-Deployment-orange?style=flat-square&logo=streamlit)
+- ![Joblib](https://img.shields.io/badge/Joblib-v1.1.0-blue)
+
+---
 
 ## 📊 **Project Overview**
 
@@ -34,16 +60,6 @@ The app also provides a dataset explorer to filter cars by price range, fuel typ
 
 ---
 
-## 🛠 **Tools Used**
-
-![Python](https://img.shields.io/badge/Python-3.8-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-v1.10.0-orange)
-![Pandas](https://img.shields.io/badge/Pandas-v1.3.3-green)
-![Plotly](https://img.shields.io/badge/Plotly-v5.3.1-blue)
-![Joblib](https://img.shields.io/badge/Joblib-v1.1.0-blue)
-![Selenium](https://img.shields.io/badge/Selenium-v3.141.0-yellow)
-
----
 
 ## 📈 **How It Works**
 
@@ -62,7 +78,7 @@ The **Car Price Prediction App** uses a **Gradient Boosting Model** to predict c
 ### **Requirements**
 
 - Python 3.8 or higher
-- Libraries: Streamlit, Pandas, Plotly, Joblib, scikit-learn, etc.
+- Libraries: python,scikit-learn,Streamlit, Pandas,numpy,Plotly, Joblib, etc.
 
 ### **Steps**
 
@@ -71,3 +87,11 @@ The **Car Price Prediction App** uses a **Gradient Boosting Model** to predict c
    ```bash
    git clone https://github.com/yourusername/car-price-prediction-app.git
    cd car-price-prediction-app
+
+2. **Install requirements.txt and run app:**
+
+   ```
+   pip install -r requirements.txt
+
+   streamlit run app.py
+
