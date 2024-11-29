@@ -9,8 +9,9 @@
 Welcome to the **Car Price Prediction App**! This web application helps users predict the price of a used car based on its features. It uses machine learning to forecast the price and allows users to explore and filter cars interactively.
 
 ---
+https://github.com/user-attachments/assets/21e64c40-9d49-44d5-85f3-34c514c214b0
 
-![Screenshot (58)](https://github.com/user-attachments/assets/08d4e4ab-567c-4b03-aa64-3871bcf3e2dd)
+
 
 ## ✨ Project Highlights
 
@@ -36,7 +37,12 @@ Welcome to the **Car Price Prediction App**! This web application helps users pr
 
 ---
 
+**output video**
+
+
 ## 📊 **Project Overview**
+
+![Screenshot (64)](https://github.com/user-attachments/assets/1d9e9760-989b-44f8-9891-c0f629e91b17)
 
 The **Car Price Prediction App** predicts the price of used cars based on various features such as:
 - Year of Manufacture
